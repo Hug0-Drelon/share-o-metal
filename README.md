@@ -1,5 +1,7 @@
 # SHARE-O-METAL API
 
+*check [here](deploy.md) how to set the API on your environment*
+
 The purpose of this API is to provides datas needed by the front-end application of Share-o-metal.
 
 The URL of this API is `3.80.87.102/Share-O-Metal/public/api`. No public domain has been created yet.
