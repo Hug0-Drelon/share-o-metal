@@ -1,6 +1,8 @@
 # SHARE-O-METAL API
 
-*check [here](deploy.md) how to set the API on your environment*
+*check [here](deploy.md) how to set the API on your environment.*
+
+*[here](Insomnia_config) is a config file for testing the API through the API client Insomnia*
 
 The purpose of this API is to provides datas needed by the front-end application of Share-o-metal.
 
